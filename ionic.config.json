@@ -1,0 +1,7 @@
+{
+  "name": "AppY",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
